@@ -1,6 +1,6 @@
 # Archway Learning Trust
 
-Welcome to the official GitHub organization of **Archway Learning Trust**.
+Welcome to the official GitHub organisation of **Archway Learning Trust**.
 
 ## About Us
 
